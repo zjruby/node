@@ -1,2 +1,2 @@
 # 说明
-powerbank使用的node
+>powerbank使用的node
